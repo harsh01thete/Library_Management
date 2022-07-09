@@ -5,10 +5,10 @@ access and return books and other study material and helps staffs to manage them
 
 It should serve the following purpose 
 Students:- 
- Access and return books. 
- Search books by title/author/ISBN. 
- search users. 
- query due date. 
+-  Access and return books. 
+-  Search books by title/author/ISBN. 
+-  search users. 
+-  query due date. 
 
 Staffs:- 
  issue and return books. 

@@ -11,14 +11,14 @@ Students:-
 -  query due date. 
 
 Staffs:- 
- issue and return books. 
- calculate fine. 
- query due date. 
- add Books and other study material. 
+-  issue and return books. 
+-  calculate fine. 
+-  query due date. 
+-  add Books and other study material. 
 
 Admin:- 
- add new students acc. 
- add new staff members. 
+-  add new students acc. 
+-  add new staff members. 
 
 Specific Technology: 
 Oracle, Java, Swing, JDBC for Oracle Connectivity, Socket. Any technology can be used 
